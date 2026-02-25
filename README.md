@@ -1,4 +1,4 @@
-# Privacy Policy
+# Motorsport Quizzes - Privacy Policy
 
 **Effective date:** 2026.02.25
 
@@ -88,7 +88,7 @@ If you have any questions regarding this Privacy Policy, you may contact us at:
 
 ---
 
-# Adatvédelmi Irányelvek
+# Motorsport Quizzes - Adatvédelmi Irányelvek
 
 **Hatálybalépés dátuma:** 2026.02.25
 
